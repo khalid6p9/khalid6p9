@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**khalid6p9/khalid6p9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Khalid Syfullah 👋
 
-Here are some ideas to get you started:
+### Full-Stack Developer | AI SaaS Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer focused on building modern web applications, AI-powered platforms, and business management software.
+
+- 🚀 Currently building AI-powered SaaS applications.
+- 💻 Working with React, JavaScript, Node.js and Supabase.
+- 🛠️ Interested in AI integration and full-stack development.
+- 🎯 Goal: Build useful, scalable and professional software.
+
+### Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express.js
+- **Database:** Supabase, PostgreSQL
+- **Tools:** Git, GitHub, VS Code
+- **AI Integration:** OpenAI API, Gemini API
+
+### Featured Projects
+
+Coming soon! I'm currently organizing my projects.
+
+### Connect With Me
+
+- GitHub: https://github.com/khalid6p9
+
+---
+
+⭐ Thanks for visiting my profile!
